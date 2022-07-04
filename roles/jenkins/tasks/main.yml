@@ -13,4 +13,5 @@
     name: sample
     user: admin
     password: admin123
-
+    url: http://172.31.13.40:8080/
+    
