@@ -5,6 +5,7 @@
     url: "http://172.31.13.40:8080"
     user: "admin"
     token: "11f73e73eb52befc32e4d0aed578a10633"
+  loop: "{{folders}}"
 
 - name: Create Pipeline Jobs
   community.general.jenkins_job:
